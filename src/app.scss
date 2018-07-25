@@ -1,0 +1,23 @@
+:global {
+  body {
+    background: #ffe74c;
+  }
+
+  .illustration-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .navbar {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    color: black;
+    font-family: monospace;
+
+    li {
+      margin-left: 10px;
+    }
+  }
+}
